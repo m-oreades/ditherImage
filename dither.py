@@ -11,7 +11,7 @@ ditherDim = 8;
 
 # save the image in the "input" folder, and change the name below:
 
-startImageName = "mandelbrot.png"
+startImageName = "image.png"
 
 
 
